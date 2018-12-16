@@ -1,14 +1,14 @@
 {
-  "main.css": "/ferreira-boutique/static/css/main.43935383.chunk.css",
-  "main.js": "/ferreira-boutique/static/js/main.04f446ec.chunk.js",
-  "main.js.map": "/ferreira-boutique/static/js/main.04f446ec.chunk.js.map",
-  "static/js/1.e5affb77.chunk.js": "/ferreira-boutique/static/js/1.e5affb77.chunk.js",
-  "static/js/1.e5affb77.chunk.js.map": "/ferreira-boutique/static/js/1.e5affb77.chunk.js.map",
-  "runtime~main.js": "/ferreira-boutique/static/js/runtime~main.bfd08ff1.js",
-  "runtime~main.js.map": "/ferreira-boutique/static/js/runtime~main.bfd08ff1.js.map",
-  "static/media/logo.svg": "/ferreira-boutique/static/media/logo.643a2bd5.svg",
-  "static/css/main.43935383.chunk.css.map": "/ferreira-boutique/static/css/main.43935383.chunk.css.map",
-  "index.html": "/ferreira-boutique/index.html",
-  "precache-manifest.310ae69c4fdcb299dbbd0c0fa601e8be.js": "/ferreira-boutique/precache-manifest.310ae69c4fdcb299dbbd0c0fa601e8be.js",
-  "service-worker.js": "/ferreira-boutique/service-worker.js"
+  "main.css": "/static/css/main.43935383.chunk.css",
+  "main.js": "/static/js/main.1f6356d4.chunk.js",
+  "main.js.map": "/static/js/main.1f6356d4.chunk.js.map",
+  "static/js/1.fcccea9b.chunk.js": "/static/js/1.fcccea9b.chunk.js",
+  "static/js/1.fcccea9b.chunk.js.map": "/static/js/1.fcccea9b.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/logo.svg": "/static/media/logo.643a2bd5.svg",
+  "static/css/main.43935383.chunk.css.map": "/static/css/main.43935383.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.ee89b8eada21b0b122bc9dedca6a214c.js": "/precache-manifest.ee89b8eada21b0b122bc9dedca6a214c.js",
+  "service-worker.js": "/service-worker.js"
 }
